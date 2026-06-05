@@ -230,5 +230,4 @@ with aba_sobre:
     st.warning(
         "Limitação: como os dados vêm de fontes diferentes, o modelo pode aprender "
         "padrões associados à origem dos dados, como latitude e longitude. "
-        "Essa limitação deve ser explicada no README e na apresentação."
     )
