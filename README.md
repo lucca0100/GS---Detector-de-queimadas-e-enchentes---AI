@@ -1,5 +1,12 @@
 # Detector de Queimadas e Enchentes com Dados de Satélite e Inteligência Artificial
 
+# Integrantes:
+Guilherme Daher - 98611
+Gabriel Freitas - 550187
+Heitor Nobre - 551539
+Vinicius Yamashita - 550908
+Lucca Alexandre - 99700
+
 ## 1. Contexto do problema
 
 Queimadas e enchentes são eventos ambientais extremos que causam impactos sociais, econômicos e ambientais. O monitoramento desses eventos é essencial para apoiar ações de prevenção, resposta emergencial, planejamento urbano, agricultura, seguros e defesa civil.
@@ -144,10 +151,12 @@ Foi desenvolvida uma aplicação interativa com Streamlit, permitindo:
 
 ## 12. Como executar o projeto localmente
 
-Clone o repositório:
+Clone o repositórioe e entre na pasta correta:
 
 ```bash
 git clone https://github.com/lucca0100/GS---Detector-de-queimadas-e-enchentes---AI.git
+
+cd GS---Detector-de-queimadas-e-enchentes---AI
 ```
 
 Crie o ambiente virtual:
@@ -198,7 +207,7 @@ http://localhost:8501
 - Link do repositório: https://github.com/lucca0100/GS---Detector-de-queimadas-e-enchentes---AI.git
 - Link da aplicação em funcionamento: https://gs---detector-de-queimadas-e-enchentes---ai-bn36naxft7a8lvy8sf.streamlit.app/
 
-## 14. Explicando como Informações importantes sobre o projeto
+## 14. Entendimento dos dados e uso da aplicação
 
 ## Explicação das colunas do dataset
 
